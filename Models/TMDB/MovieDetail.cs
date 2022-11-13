@@ -1,4 +1,6 @@
-﻿namespace MovieProDemo.Models.TMDB
+﻿#nullable disable
+
+namespace MovieProDemo.Models.TMDB
 {
 
     public class MovieDetail
