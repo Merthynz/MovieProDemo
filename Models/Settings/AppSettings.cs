@@ -2,7 +2,7 @@
 {
     public class AppSettings
     {
-        public MovieProSettings MovieProSettings { get; set; }
+        public MovieProDemoSettings MovieProDemoSettings { get; set; }
         public TMDBSettings TMDBSettings { get; set; }
     }
 }
