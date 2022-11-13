@@ -1,6 +1,6 @@
 ﻿namespace MovieProDemo.Models.Settings
 {
-    public class MovieProDemoSettings
+    public class MovieProSettings
     {
         public string TmDbApiKey { get; set; }
         public string DefaultBackdropSize { get; set; }
